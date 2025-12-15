@@ -1,2 +1,2 @@
-# SWBio-Data-Science-Courswork
+# SWBio-Data-Science-Coursework
 Random forest water quality analysis 
